@@ -1,4 +1,4 @@
-/*ÐÕÃû£º¹¨µ¤Óñ Ñ§ºÅ£º13S103061*/
+//æ³¨é‡Šï¼Œçœ‹çœ‹æ•ˆæžœ
 /* TCPdtc.cpp - main, TCPdaytime */
 #include <stdlib.h>
 #include <stdio.h>
